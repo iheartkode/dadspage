@@ -1,0 +1,32 @@
+html { 
+  background: url(h.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.weather {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: -200px;
+}
+
+.bank-gmail {
+  display: flex;
+  justify-content: center; 
+}
+.bank-gmail img {
+  padding: 50px;
+}
+
+.search input {
+  font-size: 2.5em;
+  background: white;
+}
