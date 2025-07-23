@@ -29,3 +29,12 @@ html {
   font-size: 2em;
   background: white;
 }
+
+
+.title {
+  color: white;
+  font-size: 3em;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
