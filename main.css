@@ -7,19 +7,23 @@ html {
 }
 
 .search {
-  padding-top: 20px;
   background: #333;
+  padding: 30px 20px;
   display: flex;
+  flex-wrap: wrap;
+  align-items: center;
   justify-content: center;
-  height: 20%;
+  gap: 25px;
 }
+
+
 
 .weather {
-  display: flex;
-  justify-content: flex-start;
-  margin-top: -100px;
+  justify-content: center;
+  margin-top: 30px;
+  padding: 20px 0;
+  background-color: rgba(0, 0, 0, 0.3); /* optional */
 }
-
 
 .search input {
   font-size: 2em;
